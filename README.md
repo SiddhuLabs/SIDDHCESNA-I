@@ -1,9 +1,9 @@
-# SIDDHCESNA-1
+# SIDDHCESNA-I
 
 
 
 ## Overview
-**SIDDHCESNA-1** is a **custom-built 8-bit ALU** (Arithmetic Logic Unit) designed for educational purposes and school projects.  
+**SIDDHCESNA-I** is a **custom-built 8-bit ALU** (Arithmetic Logic Unit) designed for educational purposes and school projects.  
 It supports **8-bit addition and subtraction**, where subtraction is implemented using **2's complement** via inverter gates.  
 
 > Note: XOR-based subtraction tricks were avoided to optimize space, keeping the hardware simple and easy to understand.
